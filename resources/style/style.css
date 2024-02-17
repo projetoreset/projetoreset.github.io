@@ -1,0 +1,91 @@
+.masthead {
+  padding-top: 13.5rem;
+  padding-bottom: 7rem;
+}
+
+.bg-gray {
+  background-color: #f8f9fa;
+}
+
+#main-navbar {
+  background: #fefefe;
+}
+
+#masthead-title {
+  font-family: 'Newsreader', -apple-system, BlinkMacSystemFont, 'Segoe UI',
+    Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji',
+    'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+  font-weight: 600;
+}
+
+.bg-dark {
+  background: #333;
+}
+
+#about, #step-by-step {
+  padding-top: 9rem;
+  padding-bottom: 7rem;
+}
+
+.carousel-item {
+  height: 450px;
+}
+
+.text-justify {
+  text-align: justify !important;
+}
+
+#about-text {
+  padding-left: 5rem;
+}
+
+#gallery {
+  padding-top: 9rem;
+  padding-bottom: 7rem;
+}
+
+.card-picture {
+  width: 100%;
+  height: 225px;
+}
+
+.card-picture img, .carousel-picture img {
+  object-fit: cover;
+  width: 100%;
+}
+
+.lead {
+  font-size: 1rem;
+}
+
+.circle {
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 40px;
+  font-size: 20px;
+  font-weight: 400;
+  color: white;
+}
+
+.circle-primary {
+  background: #3C7CB5;
+}
+
+.circle-secondary {
+  background: #55C49B;
+}
+
+.d-gap-1 {
+  gap: 1rem;
+}
+
+.d-gap-2 {
+  gap: 2rem;
+}
+
+.modal-dialog {
+  max-width: 800px;
+}
