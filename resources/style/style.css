@@ -89,3 +89,10 @@
 .modal-dialog {
   max-width: 800px;
 }
+
+.about-project {
+  font-size: .85rem;
+  background-color: #f8f9fa;
+  border-radius: .5rem;
+  line-height: 1.25;
+}
