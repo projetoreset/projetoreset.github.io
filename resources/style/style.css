@@ -54,6 +54,15 @@
   width: 100%;
 }
 
+#about-photo-carousel .carousel-picture img {
+  height: 100%;
+  opacity: .62;
+}
+
+#about-photo-carousel .carousel-item {
+  background: #000;
+}
+
 .lead {
   font-size: 1rem;
 }
@@ -95,4 +104,12 @@
   background-color: #f8f9fa;
   border-radius: .5rem;
   line-height: 1.25;
+}
+
+.carousel-caption-left {
+  left: -10%!important;
+}
+
+.carousel-caption-right {
+  right: -10%;
 }
